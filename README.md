@@ -15,14 +15,8 @@
 Olá! Beleza? Meu nome é Vinícius e sou um desenvolvedor autodidata. Em 2023 entrei em Ciências de Dados (UNIVESP). De 2019 para cá particei de projetos em .NET Framework, C#, servidor Apache, e MySql. Tenho conhecimento básico em Java, C, JavaScript, CSS e HTML.</p>
   
 <h3 style="none">Conexão</h3>
-<a href="vinizacc@gmail.com">
-    vinizacc@gmail.com
-</a>&nbsp|
-<a href="https://www.linkedin.com/in/vinicius-zaccaro/">
-linkedin
-</a>&nbsp|
-<a href="https://www.instagram.com/vinizacc/">
-    instagram
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0485fd?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/vinicius-zaccaro/)
+[![Instagram](https://img.shields.io/badge/Instagram-0485fd?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/vinizacc/)
 
 

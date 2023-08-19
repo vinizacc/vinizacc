@@ -6,7 +6,7 @@
 </div>
 <div align="right">
     <picture>
-        <img src="https://github.com/vinizacc/vinicius-zaccaro/blob/main/dev-3.png?raw=true" width = 250px align="right">
+        <img src="https://github.com/vinizacc/vinicius-zaccaro/blob/main/dev-5.png?raw=true" width = 250px align="right">
     </picture>
 </div>
 

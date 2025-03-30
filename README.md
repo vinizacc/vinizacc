@@ -12,7 +12,7 @@
 
 
 <p>
-Olá! Beleza? Meu nome é Vinícius e sou um desenvolvedor autodidata. Em 2023 entrei em Ciências de Dados (UNIVESP). De 2019 para cá particei de projetos em .NET Framework, C#, servidor Apache, e MySql. Tenho conhecimento básico em Java, C, JavaScript, CSS e HTML.</p>
+Olá! Beleza? Meu nome é Vinícius e estou a procurando um estágio na aréa de tecnologia!
   
 <h3 style="none">Conexão</h3>
 
